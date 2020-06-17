@@ -9,17 +9,17 @@
 </head>
 
 <header>
-    <h1>Calculadora IMC</h1>
+    <h1>Calculadora (IMC)</h1>
 
 </header>
 
 <section>
 
     <div>
-        <p>Qual o seu peso?</p>
+        <p>Qual o seu peso? (ex:70kg)</p>
         <input type="number" name="peso" id="peso">
 
-        <p>Qual a sua altura?</p>
+        <p>Qual a sua altura? (ex: 1.78)</p>
         <input type="number" name="altura" id="altura">
 
         <p><input type="button" value="calcular" onclick="calcula()"></p>
@@ -34,13 +34,27 @@
     </div>
 
 
+
+    <div id="resultado">
+        <h2>Resultado do seu calculo!</h2>
+    </div>
+
+    <div id="dados">
+        <p>Menor que 18.5 abaixo do peso!</p>
+        <p>Entre 18.5 e 24.9 peso normal!</p>
+        <p>Entre 25 e 29.9 sobrepeso!</p>
+        <p>Entre 30 e 39.9 obesidade!</p>
+        <p>Maior que 40 obesidade grave!</p>
+    </div>
+
+    <footer>
+
+        <p>&copy;Nutricionista: Rosangela Araujo Oliveira</p>
+
+    </footer>
+
+
 </section>
-
-<footer>
-
-    <p>&copy;Nutricionista: Rosangela Araujo Oliveira</p>
-
-</footer>
 
 <script src="script.js"></script>
 

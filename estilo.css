@@ -14,7 +14,9 @@ header{
 }
 
 header h1{
-    padding:50px;
+    padding:20px;
+    background-color:rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
 }
 
 section{
@@ -33,10 +35,20 @@ section div input{
     
 }
 
-footer{
-    padding:100px;
+#resultado{
     text-align: center;
-    color:whitesmoke;
+    padding: 50px;
+}
+
+#dados{
+    text-align: center;
+    
+}
+
+footer{
+    text-align:center;
+    color:rgb(250, 192, 255);
     font-style: italic;
+    padding: 30px;
     
 }
