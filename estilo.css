@@ -1,4 +1,9 @@
 
+@media (max-width:900px){
+    body{
+        background-position: 70vw;
+
+
 body{
     padding: 100px;
     /*background: rgb(190, 134, 236);*/
