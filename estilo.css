@@ -12,6 +12,8 @@ header{
     color:white;
     text-align: center;
     padding-bottom: 100px;
+    width: 320px;
+    padding-left:300px;
 
 }
 
@@ -25,7 +27,7 @@ section{
 
     background:rgba(220,220,220, 0.5);
     border-radius: 10px;
-    padding: 15px;
+    padding: 20px;
     margin: auto;
     width: 320px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
@@ -58,6 +60,11 @@ section p {
 }
 
 
+footer{
+    width: 320px;
+    padding-left: 300px;
+}
+
 
 footer p{
     padding:30px;
@@ -66,13 +73,14 @@ footer p{
     font-style: italic;
     background:rgba(255,20,147,0.5);
     border-radius: 15px;
-    width: 320px;
     
 }
 
  #resultado{
 
     text-align: center;
+    width: 320px;
+    padding-left: 300px;
 }
 
 #resultado h2{
@@ -80,6 +88,11 @@ footer p{
     padding:20px;
     background-color:rgba(255,165,0,0.5);
     border-radius:6px;
+}
+
+#abaixo{
+    width:320px;
+    padding-left: 300px;
 }
 
 #abaixo p{
@@ -91,12 +104,22 @@ footer p{
     color: white;
 }
 
+#ideal{
+    width: 320px;
+    padding-left: 300px;
+}
+
 #ideal p{
     background: rgba(0,0,0,0.5);
     padding:30px;
     text-align: center;
     border-radius:6px;
     color: white;
+}
+
+#sobrepeso{
+    width: 320px;
+    padding-left: 300px;
 }
 
 #sobrepeso p{
@@ -107,12 +130,22 @@ footer p{
     color: white;
 }
 
+#obesidade{
+    width: 320px;
+    padding-left: 300px;
+}
+
 #obesidade p{
     background: rgba(0,0,0,0.5);
     padding:30px;
     text-align: center;
     border-radius:6px;
     color: white;
+}
+
+#grave{
+    width: 320px;
+    padding-left: 300px;
 }
 
 #grave p{
