@@ -12,7 +12,7 @@ header{
     color:white;
     text-align: center;
     width: 320px;
-    padding-left:300px;
+    padding-left:100px;
 
 }
 
@@ -30,7 +30,7 @@ section{
     width: 320px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
     text-align: center;
-    margin:200px;
+    margin:100px;
 
 }
 
@@ -62,7 +62,7 @@ section p {
 
 footer{
     width: 320px;
-    padding-left:200px;
+    padding-left:100px;
 }
 
 
