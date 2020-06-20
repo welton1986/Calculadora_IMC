@@ -1,4 +1,12 @@
 
+@media screen and (min-widht: 320px){
+    section{
+        width: 320px;
+    }
+}
+
+
+
 body{
     padding: 100px;
     background-image: url(nutrição-esportiva.jpg);
