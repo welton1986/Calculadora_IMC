@@ -30,7 +30,7 @@ section{
     width: 320px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
     text-align: center;
-    margin:280px;
+    margin:200px;
 
 }
 
@@ -80,7 +80,7 @@ footer p{
 
     text-align: center;
     width: 320px;
-    padding-left:200px;
+    padding-left:100px;
 }
 
 #resultado h2{
@@ -92,7 +92,7 @@ footer p{
 
 #abaixo{
     width:320px;
-    padding-left:200px;
+    padding-left:100px;
 }
 
 #abaixo p{
@@ -106,7 +106,7 @@ footer p{
 
 #ideal{
     width: 320px;
-    padding-left:200px;
+    padding-left:100px;
 }
 
 #ideal p{
@@ -119,7 +119,7 @@ footer p{
 
 #sobrepeso{
     width: 320px;
-    padding-left:200px;
+    padding-left:100px;
 }
 
 #sobrepeso p{
@@ -132,7 +132,7 @@ footer p{
 
 #obesidade{
     width: 320px;
-    padding-left:200px;
+    padding-left:100px;
 }
 
 #obesidade p{
@@ -145,7 +145,7 @@ footer p{
 
 #grave{
     width: 320px;
-    padding-left:200px;
+    padding-left:100px;
 }
 
 #grave p{
