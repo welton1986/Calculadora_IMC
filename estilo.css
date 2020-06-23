@@ -60,22 +60,6 @@ section p {
 }
 
 
-footer{
-    width: 320px;
-    padding-left:100px;
-}
-
-
-footer p{
-    padding:30px;
-    text-align: center;
-    color:whitesmoke;
-    font-style: italic;
-    background:rgba(255,20,147,0.5);
-    border-radius: 15px;
-    
-}
-
  #resultado{
 
     text-align: center;
@@ -154,4 +138,20 @@ footer p{
     text-align: center;
     border-radius:6px;
     color: white;
+}
+
+footer{
+    width: 320px;
+    padding-left:100px;
+}
+
+
+footer p{
+    padding:30px;
+    text-align: center;
+    color:whitesmoke;
+    font-style: italic;
+    background:rgba(255,20,147,0.5);
+    border-radius: 15px;
+    
 }
